@@ -23,10 +23,10 @@ function App() {
           I'm a{' '}
           <Typical
             steps={[
-              'triathlete 🏊🏽🚴🏃.', 1000,
-              'teacher 👨🏽‍🏫.', 1000,
-              'film photographer 📸.', 1000,
-              "software engineer 💻.", 1000
+              'photographer 📸.', 1000,
+              'teacher 👨🏽.', 1000,
+              'pro triathlete (wannabe).', 1000,
+              "developer 💻.", 1000
             ]}
             loop={1}
             wrapper="b"
